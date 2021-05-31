@@ -1,6 +1,4 @@
-# PCA in Generalized Convex Spaces
-
-### phi_alpha-PCA is a robust PCA in the generalized convex spaces
+# Classification in Generalized Convex Spaces
 
 In this package, we find:
 
@@ -20,11 +18,8 @@ In this package, we find:
 * You need your data in an excel file with the extension (.xlsx)
 * You also need to put on the fist row the name of the variables and on the first column the name of the observations
 
-### Import phi_alpha-PCA
 
 
-```python
-from ACP_phi_alpha import Pca_alpha
 ```
 
 ### Import plot utilities: example on cars data
